@@ -1,0 +1,4 @@
+﻿  01_dictionary.cpp
+C:\Users\jiseo\OneDrive\바탕 화면\3학년 2학기\고소실\7주차\graph_base_code\01_dictionary\01_dictionary.cpp(21,67): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jiseo\OneDrive\바탕 화면\3학년 2학기\고소실\7주차\graph_base_code\01_dictionary\01_dictionary.cpp(44,23): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  01_dictionary.vcxproj -> C:\Users\jiseo\OneDrive\바탕 화면\3학년 2학기\고소실\7주차\graph_base_code\x64\Debug\01_dictionary.exe
